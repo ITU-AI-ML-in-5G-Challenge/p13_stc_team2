@@ -53,7 +53,7 @@ if(file.exists(here("data/train.csv")) & file.exists(here("data/tests.csv"))){
 # train models  ------------------------------------------------------------
 
 # feed data and number of grid search combinations 
-train_and_score(train, test, test_row, combinations_num = 100, re_train = FALSE) # change to TRUE to do the training again
+train_and_score(train, test, test_row, combinations_num = 100, re_train = TRUE) # change to TRUE to do the training again
 
 
 # model results -----------------------------------------------------------

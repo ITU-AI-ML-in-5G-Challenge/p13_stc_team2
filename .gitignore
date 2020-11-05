@@ -1,17 +1,15 @@
-/data
 /*.html 
 *.Rmd
 *.html
 /*.Rmd
-*.rds 
 /*log 
-/Data
 /*.csv
 /.DS_Store
 /*/.DS_Store
 .DS_Store
-/*.rds
-
+.config
+.rstudio
+.local
 *.pdf
 /*.zip
 # History files

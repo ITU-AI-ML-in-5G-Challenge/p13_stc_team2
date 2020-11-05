@@ -11,6 +11,10 @@ This project can be run using docker
 
 - Open localhost:8787 in browser
 
+- User: rstuido
+
+- Password: itu
+
 ## Notes
 
 The file`main.R`  has the high level functions. By default, if you used docker, you won't run the cleaning nor the training and will use the output of these two functions. Change the value of `clean_data` and `train_and_score` functions to `TRUE` to rerun them. 
