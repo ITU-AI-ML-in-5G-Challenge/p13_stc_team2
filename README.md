@@ -14,7 +14,7 @@ Download the following datasets:
 
 - output_simulator_test
 
-This could not be uploaded to Github limitation. Data can be downloaded from [here](https://zenodo.org/record/4059189#.X6ODSdtRVZM)
+This could not be uploaded to Github due to size limitation. Data can be downloaded from [here](https://zenodo.org/record/4059189#.X6ODSdtRVZM)
 
 ## Start
 
