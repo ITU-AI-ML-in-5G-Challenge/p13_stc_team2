@@ -20,7 +20,7 @@ This could not be uploaded to Github due to size limitation.
 
 ## Usage
 
-- Clone this project project 
+- Clone this project  
 
 - Add the downloaded datasets to the data folder so that there will be an additional four folders inside the data folder 
 
