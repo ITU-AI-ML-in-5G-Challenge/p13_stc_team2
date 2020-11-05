@@ -34,7 +34,7 @@ This could not be uploaded to Github due to size limitation.
 
 The file`main.R`  has the high level functions. Change the value of `clean_data` and `train_and_score` functions to `FALSE` if you do not want to redo the cleaning and training after first run. 
 
-In this project, we splited the training data into training and testing and we ran the training function on the whole training set usiing 10-folds cross-valdiation. Further, we used **100** combinations with ten folds cross valdiation 
+In this project, we splited the training data into training and testing and we ran the training function on the whole training set usiing 10-folds cross-valdiation. Further, we used **100** and **300** combinations with ten folds cross valdiation. 
 
 
 
