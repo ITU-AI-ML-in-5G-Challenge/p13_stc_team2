@@ -26,7 +26,7 @@ This could not be uploaded to Github due to size limitation.
 
 - Open `localhost:8787` in browser
 
-- User: **rstuido**
+- User: **rstudio**
 
 - Password: **itu**
 
