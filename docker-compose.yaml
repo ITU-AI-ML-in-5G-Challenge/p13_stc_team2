@@ -1,0 +1,12 @@
+version: "3.5"
+services:
+  rstudio:
+    environment:
+      - USER=itu
+      - PASSWORD=itu
+    image: "m2520m/itu_2020_p13"
+    volumes:
+      - ./:/home/itu/
+    container_name: itu_p13
+    ports:
+      - 8787:8787
