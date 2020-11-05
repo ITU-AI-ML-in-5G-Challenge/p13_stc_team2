@@ -26,7 +26,7 @@ log_threshold(DEBUG)
 
 #  clean and process training and testing data ----------------------------
 
-clean_data(re_clean = FALSE) # change to true if you want to do the cleaning  
+clean_data(re_clean = TRUE) # change to true if you want to do the cleaning  
 
 # reterive data after it is created  -------------------------------------------------------------------
 

@@ -2,12 +2,27 @@
 
 ## Requirements
 
-This project can be run using docker
+This project can be run using docker. 
 
+Download the following datasets:
+
+- input_node_files
+
+- input_node_files_test
+
+- output_simulator
+
+- output_simulator_test
+
+This could not be uploaded to Github limitation. Data can be downloaded from [here](https://zenodo.org/record/4059189#.X6ODSdtRVZM)
 
 ## Start
 
-- In the terminal while inside this project after it is cloned, run`docker-compose up -d` to start the docker container
+- Clone this project project 
+
+- Add the downloaded datasets to the data folder so that there will be four folders inside the data folder 
+
+- In the terminal run`docker-compose up -d` to start the docker container
 
 - Open localhost:8787 in browser
 
