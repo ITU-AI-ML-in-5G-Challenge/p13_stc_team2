@@ -18,7 +18,7 @@ Download the following datasets from [here](https://zenodo.org/record/4059189#.X
 
 This could not be uploaded to Github due to size limitation. 
 
-## Start
+## Usage
 
 - Clone this project project 
 
