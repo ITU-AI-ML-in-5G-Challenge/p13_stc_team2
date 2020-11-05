@@ -32,9 +32,9 @@ This could not be uploaded to Github due to size limitation.
 
 ## Notes
 
-The file`main.R`  has the high level functions. By default, if you used docker, you won't run the cleaning nor the training and will use the output of these two functions. Change the value of `clean_data` and `train_and_score` functions to `TRUE` to rerun them. 
+The file`main.R`  has the high level functions. Change the value of `clean_data` and `train_and_score` functions to `FALSE` if you do not want to redo the cleaning and training after first run. 
 
-In this project, we split the training data into  training and testing and we ran the training function on the whole training set. Further, we used **100** combinations with 10 folds cross valdiation 
+In this project, we splited the training data into training and testing and we ran the training function on the whole training set usiing 10-folds cross-valdiation. Further, we used **100** combinations with ten folds cross valdiation 
 
 
 
