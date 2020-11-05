@@ -14,6 +14,8 @@ Download the following datasets from [here](https://zenodo.org/record/4059189#.X
 
 - output_simulator_test
 
+**Note: make sure to delete npm_debug.log file from input_node_files_test/test_4 folder.**
+
 This could not be uploaded to Github due to size limitation. 
 
 ## Start
