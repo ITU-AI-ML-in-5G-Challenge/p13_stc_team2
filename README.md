@@ -1,4 +1,4 @@
-# ITU 2020: Problem 13
+# ITU 2020: Problem 13 - STC Team 2
 
 ## Requirements
 
